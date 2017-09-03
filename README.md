@@ -1,5 +1,5 @@
 # EaseCurve
-Wolfram Mathematica note for EaseCurve
+Wolfram Mathematica note for ease curve.
 
 For more information, please refer to this [article](http://www.pxrgo.com/math/2017/08/28/ease-curve/).
 ## License
